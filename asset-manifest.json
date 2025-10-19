@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/danijeun/word-count.git/static/css/main.de1dca8e.css",
+    "main.js": "/danijeun/word-count.git/static/js/main.17625d3a.js",
+    "index.html": "/danijeun/word-count.git/index.html",
+    "main.de1dca8e.css.map": "/danijeun/word-count.git/static/css/main.de1dca8e.css.map",
+    "main.17625d3a.js.map": "/danijeun/word-count.git/static/js/main.17625d3a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de1dca8e.css",
+    "static/js/main.17625d3a.js"
+  ]
+}
