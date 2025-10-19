@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/danijeun/word-count.git/static/css/main.de1dca8e.css",
-    "main.js": "/danijeun/word-count.git/static/js/main.17625d3a.js",
-    "index.html": "/danijeun/word-count.git/index.html",
-    "main.de1dca8e.css.map": "/danijeun/word-count.git/static/css/main.de1dca8e.css.map",
-    "main.17625d3a.js.map": "/danijeun/word-count.git/static/js/main.17625d3a.js.map"
+    "main.css": "/word-count/static/css/main.de1dca8e.css",
+    "main.js": "/word-count/static/js/main.17625d3a.js",
+    "index.html": "/word-count/index.html",
+    "main.de1dca8e.css.map": "/word-count/static/css/main.de1dca8e.css.map",
+    "main.17625d3a.js.map": "/word-count/static/js/main.17625d3a.js.map"
   },
   "entrypoints": [
     "static/css/main.de1dca8e.css",
